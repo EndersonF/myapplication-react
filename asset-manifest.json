@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/myapplication-react/static/css/main.2cb62246.css",
+    "main.js": "/myapplication-react/static/js/main.50f70046.js",
+    "static/media/contato.jpg": "/myapplication-react/static/media/contato.1bd9bf2dc50673043059.jpg",
+    "index.html": "/myapplication-react/index.html",
+    "main.2cb62246.css.map": "/myapplication-react/static/css/main.2cb62246.css.map",
+    "main.50f70046.js.map": "/myapplication-react/static/js/main.50f70046.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cb62246.css",
+    "static/js/main.50f70046.js"
+  ]
+}
